@@ -2,7 +2,8 @@
   "name": "algorithms",
   "private": true,
   "scripts": {
-    "start": "jest --watch"
+    "start": "jest --watch",
+    "test": "jest"
   },
   "jest": {
     "verbose": true,
