@@ -1,8 +1,5 @@
 .PHONY: build setup format lint
 
-# Python scripts
-# (use npm for JavaScript)
-
 start:
 	@jupyter-lab
 
